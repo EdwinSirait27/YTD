@@ -1,4 +1,4 @@
-buka cmd atau sejenisnya
-arahkan ke direktori
-ketik python download_youtube_playlist.py
-done
+1.  buka cmd atau sejenisnya
+2.  arahkan ke direktori
+3.  ketik python download_youtube_playlist.py
+4.  done
